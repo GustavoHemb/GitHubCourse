@@ -1,4 +1,4 @@
-<H3> What just happen <H3>
+<H3> What just happen </H3>
   
 <p>This is a test time<p>
 
